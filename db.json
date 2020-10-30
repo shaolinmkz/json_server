@@ -1,3 +1,24 @@
 {
-    "blogposts": []
+  "blogposts": [
+    {
+      "id": "1",
+      "title": "God is love ❤️",
+      "content": "Love of God can mean either love for God or love by God..."
+    },
+    {
+      "id": "2",
+      "content": "The key of life has a name written in the sands of time...",
+      "title": "The Key 🔑 of life."
+    },
+    {
+      "id": "z9xiOxa",
+      "title": "What is this?",
+      "content": "I don’t understand this oh!"
+    },
+    {
+      "content": "Do you know me?",
+      "id": "hH0n-Xd",
+      "title": "Sup dude?!"
+    }
+  ]
 }
